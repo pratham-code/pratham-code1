@@ -1,0 +1,77 @@
+.main {
+      background-color: #EAF6F6; 
+    padding: 50px;
+    border: solid 5px;
+    margin: 20px;
+    height: 600px;
+    position: relative;
+    }
+ body{
+    text-align:center;
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+    }
+ h1{
+    margin-top:60px;
+    font-family: 'Merienda', cursive;
+    font-size: 4.375rem;
+    margin: 30px auto 0px auto;
+    color: #66BFBF;
+    line-height: 2;
+    }
+ hr{ 
+border: dotted #40514E 6px;
+border-bottom:none;
+width:4%;
+margin:30px auto;
+
+ }
+.a{
+    position: absolute;
+    left: 300px;
+    
+}
+.g{color:  #11999E; padding-top: 20px;}
+.d{color: #66BFBF;
+font-weight: normal;
+font-size: 2.5rem;}
+.b{
+    position: absolute;
+    right:300px;
+    top: 50px;
+}
+
+
+    
+
+
+.m{
+margin: 35px auto 0px auto;}
+.x{position:relative;
+bottom: 0px;
+margin-bottom:0px ;
+margin-right: 30px;}
+
+
+    .p{height: 226.25px; width: 150px;}
+    .q{height: 221.7px; width: 350px; float: left; margin-right: 30px; margin-bottom: 30px; top: 10px;padding-top: 25px;padding-bottom: 25px;}
+    .r{height: 200px; width: 200px; float: right; margin-left: 30px;padding-top: 25px;padding-bottom: 25px; }
+    .n{;text-align: left;
+    line-height: 2; margin-bottom:30px;padding-top: 25px;padding-bottom: 25px;}
+    .skill-row{display: inline; padding-bottom: 50px;margin-top: 50px;}
+    .skills{width: 50%;
+    margin:100px auto 100px auto;}
+    .v{line-height: 30px;margin-top: 30px;padding-top: 25px;padding-bottom: 25px;}
+    .k{line-height: 30px; color: #40514E;}
+    .profile{ width: 40%; margin-left: 400px;}
+    
+.bottom-container{background-color: #11999E; margin: 30px;}
+.o{color: #EAF6F6;}
+    .j{margin-top: 50px;
+    line-height: 2;}
+   
+
+    .BUTTON_NDL {text-decoration: none;
+font-size: 150%;
+       }
+    .BUTTON_NDL:hover{ color: #EAF6F6;}
